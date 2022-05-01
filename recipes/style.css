@@ -1,0 +1,45 @@
+body {
+    background-color: rgba(62, 92, 201, 0.644);
+    color: white;
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+}
+.title {
+    color: white;
+    font-family: "Times New Roman", sans-serif;
+    text-align: center;
+    font-size: 100px;
+}
+
+.title .subtitle {
+    font-size: 10px;
+}
+
+.link {
+    color: rgb(251, 244, 244);
+    font-family: "Times New Roman", sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+.recipe-title{
+    font-size:80px
+}
+.recipe-header {
+    font-size: 40px;
+}
+
+
+
+.recipe-subtext {
+    font-size: 18px;
+    font-weight: 1000;
+    text-align: center;
+    font-style: normal;
+}
+
+.recipe-subtext.quote {
+    font-style: italic;   
+}
